@@ -1,0 +1,13 @@
+name = "Worldthreader"
+filename = "Worldthreader-2.1.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LwH5rYyd/versions/MvcNUhUF/Worldthreader-2.1.3.jar"
+hash-format = "sha512"
+hash = "6ef9ab150ff4f87b8475cb8bcbf882d5827fc2680e1b324520a88032740da0d1939a281e2999e996ca453a7fb5a7b9fffaa357c9578d8e03aed7c962643d9c7f"
+
+[update]
+[update.modrinth]
+mod-id = "LwH5rYyd"
+version = "MvcNUhUF"
