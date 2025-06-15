@@ -16,6 +16,11 @@ hash = "7cd71deb6b83b2244c93fceb438227072fc8ab6e9cae95b9cbdcab1e95c4e51c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "958810fbf4f0c978e3c7a78b42829cdb4dcdc78be467dab37a9993df2d3eb5c0"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 hash = "76278809585fa354f2a4def972c59f5ae5e3270beaac7e419e24e4870f6d6652"
 metafile = true
