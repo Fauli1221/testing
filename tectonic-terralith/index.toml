@@ -84,8 +84,3 @@ metafile = true
 file = "mods/terralith.pw.toml"
 hash = "c5623c1e5f39e087e54f6baf8ee42eed0a0e95cd7425ad9192cc60544628f252"
 metafile = true
-
-[[files]]
-file = "mods/worldthreader.pw.toml"
-hash = "151f86aa69fbf0d7b82b6991ee4a2301d7bf4d757c5a153c96de7007dedaefeb"
-metafile = true
